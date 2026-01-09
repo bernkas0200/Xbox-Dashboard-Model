@@ -1,2 +1,2 @@
 # Xbox-Dashboard-Model
-Dashboard model of Xbox Gamepass subscriptions.
+Dashboard model made with Excel that aims to simulate and showcase values of Xbox Gamepass subscriptions.
